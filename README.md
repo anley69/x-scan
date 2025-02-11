@@ -4,8 +4,6 @@
 
 从fofa下载对应数据
 
-运行fofa.py进行筛选
-
 pip install -r requirements.txt
 
 然后运行start.sh即可
